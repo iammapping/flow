@@ -1,0 +1,5 @@
+{
+   "compilerOptions": {
+       "typeRoots" : ["./typings/index.d.ts"]
+   }
+}

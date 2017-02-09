@@ -1,0 +1,22 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "description": "a simple flow framework by promise",
+  "main": "flow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iammapping/flow.git"
+  },
+  "author": "iammapping <meibing_240@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iammapping/flow/issues"
+  },
+  "homepage": "https://github.com/iammapping/flow#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7"
+  }
+}
